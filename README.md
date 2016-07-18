@@ -10,3 +10,6 @@ There is currently no warranty for the results from blender CAM - you have to ch
 Read more and join the forum on:
 
 http://blendercam.blogspot.fi
+
+
+[![Join the chat at https://gitter.im/taras-ko/blendercam](https://badges.gitter.im/taras-ko/blendercam.svg)](https://gitter.im/taras-ko/blendercam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
